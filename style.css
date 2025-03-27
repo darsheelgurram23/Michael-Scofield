@@ -1,0 +1,33 @@
+h1{
+    text-align:center;
+    height: 100px;
+    width: 800px;
+    background-color: aqua;
+    margin: 5px;
+    font-size: large;
+    display: inline-block;
+    padding: 1%;
+    border: 5px solid black;
+    
+}
+
+.Scofield1{
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+}
+.Scofield2{
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+}
+.Scofield3{
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+}
+.Banin{
+  text-align: right;
+  font-size: small;
+
+}
